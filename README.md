@@ -21,7 +21,8 @@ Technical details:
 Current issues:
 1)  Only works on Windows OS, with .NET framework 4.5 installed. Would be fixed soon. Windows 8 comes with .NET 4.5          pre-installed so users of Win8 and above need not worry. Others, please install .NET 4.5.
 2)  Currently only supports Hall 2 IP addresses. Data files for other halls would be added soon.
-3)  Help file needs to be updates.
+3)  Help file needs to be updated.
+4)  The application is named 'WindowsFormsApplication1' at the moment.
 
 Changelog:
 6/1/15  -  v1.0  First commit.
