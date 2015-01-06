@@ -1,9 +1,9 @@
 IITkNet v1.0
+=======
   --Saksham Sharma
     Computer Science and Engineering
     IIT Kanpur
     B.Tech 1st Year
-=======
 
 A GUI wrapper for command line commands to set the IP and DNS in IIT Kanpur. Enables ease of switching IPs, or switching from DHCP to Static.
 
