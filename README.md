@@ -28,6 +28,7 @@ A GUI wrapper for command line commands to set the IP and DNS in IIT Kanpur. Ena
 2.  Currently only supports Hall 2 IP addresses. Data files for other halls would be added soon.
 3.  Help file needs to be updated.
 4.  The application is named 'WindowsFormsApplication1' at the moment.
+5.  Icon file is larger than required.
 
 # Changelog:
 
